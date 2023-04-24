@@ -1,0 +1,55 @@
+.footer{
+    /* padding-bottom: 10px; */
+    background-color: #000;
+}
+.footer h5{
+font-size: 1rem;
+color: #fff;
+}
+
+.list_grup .list_item{
+    background: transparent !important;
+    padding-left:0 ;
+    border: none;
+}
+/* .list_grup{
+    padding-left: 0;
+} */
+.list_item a{
+    text-decoration: none;
+    color: #fff;
+    opacity: 0.5;
+    font-size: 0.8rem;
+}
+.list_item a:hover{
+    color: #fff;
+    opacity: 0.8;
+}
+.newsLetter{
+    width: 100%;
+    border-radius: 40px;
+    /* color: #fff; */
+    padding: 8px 20px;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+::placeholder{
+    color: gray;
+    
+}
+.social_links span a{
+    text-decoration: none;
+color: #fff;
+    font-size: 1.4rem;
+    font-weight: 400;
+    transition: 0.5s ease-in;
+    padding: 2px;
+}
+.social_links span a:hover{
+    color: #e250e5;
+}
+.copyRight{
+    font-size: 0.8rem;
+}

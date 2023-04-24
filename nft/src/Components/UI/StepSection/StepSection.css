@@ -1,0 +1,23 @@
+.step_title{
+    color: #fff;
+}
+.single_step_item{
+    background-color: #343444;
+    border-radius: 7px;
+    padding: 25px;
+    text-align: center;
+}
+.single_step_item span{
+    color: #fff;
+    font-size: 23px;
+    background-color: rgba(51, 106, 189, 0.89);
+    padding: 2px 6px;
+}
+.step_item_content h5 a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+.step_item_content{
+    margin-top: 15px;
+}
