@@ -11,7 +11,7 @@ import Wallet from "./Pages/Wallet";
 const Routers = () => {
   return (
     <div>
-      <BrowserRouter basename="/Nft-Website">
+      <BrowserRouter>
         <Routes>
           <Route path="/Nft-Website" element={<Navigate to="/home" />} />
           <Route path="/home" element={<Home />} />
